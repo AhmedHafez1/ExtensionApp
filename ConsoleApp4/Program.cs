@@ -18,7 +18,6 @@ namespace ConsoleApp4
             Console.WriteLine(sentence);
 
             List<int> list = new List<int>();
-            list.
 
             IEnumerable<int> rangeList = Enumerable.Range(0, sentence.Length);
 
